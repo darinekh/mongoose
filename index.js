@@ -15,8 +15,8 @@ const {
 
 const arrayOfPeople = [
     { name: "Rami", age: 21, favoriteFoods: ["hamburger", "fries"] },
-    { name: "Rami", age: 21, favoriteFoods: ["hamburger", "fries"] },
-    { name: "Rami", age: 21, favoriteFoods: ["hamburger", "fries"] }
+    { name: "Sami", age: 21, favoriteFoods: ["Pasta", "fries"] },
+    { name: "Karim", age: 21, favoriteFoods: ["Pizza", "fries"] }
 ];
 
 (async () => {

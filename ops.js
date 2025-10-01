@@ -4,8 +4,8 @@ const Person = require('./models/Person');
 async function createPerson() {
     try {
         const person = new Person({
-            name: 'Issa',
-            age: 21,
+            name: 'Darine',
+            age: 28,
             favoriteFoods: ['milawi', 'chikens']
         });
 
